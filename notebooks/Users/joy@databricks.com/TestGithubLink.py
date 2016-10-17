@@ -4,6 +4,7 @@
 # COMMAND ----------
 
 print "I update from github"
+print "After editing from notebook, another update from Github"
 
 # COMMAND ----------
 
