@@ -1,4 +1,4 @@
-# Databricks notebook source exported at Mon, 31 Oct 2016 22:54:48 UTC
+# Databricks notebook source exported at Mon, 31 Oct 2016 22:58:39 UTC
 # MAGIC %md test link github
 
 # COMMAND ----------
@@ -14,4 +14,3 @@ fdafdsaffdafdsafd
 
 # MAGIC %md add new from local
 # MAGIC %md add new from github - after 03c99eaa29
-
